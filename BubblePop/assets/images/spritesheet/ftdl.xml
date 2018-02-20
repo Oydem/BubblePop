@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ftdl.png">
+	<!-- Created with Adobe Animate version 16.2.0.24 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ftdl0000" x="0" y="0" width="43" height="43" pivotX="301.35" pivotY="424.65" frameX="-300" frameY="-422" frameWidth="343" frameHeight="465"/>
+	<SubTexture name="ftdl0001" x="43" y="0" width="92" height="107" frameX="-251" frameY="-358" frameWidth="343" frameHeight="465"/>
+	<SubTexture name="ftdl0002" x="135" y="0" width="141" height="177" frameX="-202" frameY="-288" frameWidth="343" frameHeight="465"/>
+	<SubTexture name="ftdl0003" x="276" y="0" width="196" height="254" frameX="-147" frameY="-211" frameWidth="343" frameHeight="465"/>
+	<SubTexture name="ftdl0004" x="472" y="0" width="245" height="324" frameX="-98" frameY="-141" frameWidth="343" frameHeight="465"/>
+	<SubTexture name="ftdl0005" x="717" y="0" width="294" height="395" frameX="-49" frameY="-70" frameWidth="343" frameHeight="465"/>
+	<SubTexture name="ftdl0006" x="0" y="395" width="343" height="465"/>
+	<SubTexture name="ftdl0007" x="343" y="395" width="264" height="360" frameX="-79" frameY="-105" frameWidth="343" frameHeight="465"/>
+	<SubTexture name="ftdl0008" x="276" y="0" width="196" height="254" frameX="-147" frameY="-211" frameWidth="343" frameHeight="465"/>
+	<SubTexture name="ftdl0009" x="607" y="395" width="117" height="142" frameX="-226" frameY="-323" frameWidth="343" frameHeight="465"/>
+	<SubTexture name="ftdl0010" x="724" y="395" width="43" height="43" frameX="-300" frameY="-422" frameWidth="343" frameHeight="465"/>
+	<SubTexture name="ftdl0011" x="767" y="395" width="0" height="0" frameX="-301" frameY="-424" frameWidth="343" frameHeight="465"/>
+</TextureAtlas>

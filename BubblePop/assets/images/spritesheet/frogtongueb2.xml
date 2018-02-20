@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="frogtongueb2.png">
+	<!-- Created with Adobe Animate version 16.2.0.24 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FTongueb0000" x="0" y="0" width="48" height="40" pivotX="300.25" pivotY="2" frameX="-299" frameY="0" frameWidth="347" frameHeight="40"/>
+	<SubTexture name="FTongueb0001" x="48" y="0" width="98" height="40" frameX="-249" frameY="0" frameWidth="347" frameHeight="40"/>
+	<SubTexture name="FTongueb0002" x="146" y="0" width="148" height="40" frameX="-199" frameY="0" frameWidth="347" frameHeight="40"/>
+	<SubTexture name="FTongueb0003" x="294" y="0" width="197" height="40" frameX="-150" frameY="0" frameWidth="347" frameHeight="40"/>
+	<SubTexture name="FTongueb0004" x="0" y="40" width="247" height="40" frameX="-100" frameY="0" frameWidth="347" frameHeight="40"/>
+	<SubTexture name="FTongueb0005" x="0" y="80" width="297" height="40" frameX="-50" frameY="0" frameWidth="347" frameHeight="40"/>
+	<SubTexture name="FTongueb0006" x="0" y="120" width="347" height="40"/>
+	<SubTexture name="FTongueb0007" x="0" y="160" width="287" height="40" frameX="-60" frameY="0" frameWidth="347" frameHeight="40"/>
+	<SubTexture name="FTongueb0008" x="0" y="200" width="227" height="40" frameX="-120" frameY="0" frameWidth="347" frameHeight="40"/>
+	<SubTexture name="FTongueb0009" x="227" y="200" width="168" height="40" frameX="-179" frameY="0" frameWidth="347" frameHeight="40"/>
+	<SubTexture name="FTongueb0010" x="395" y="200" width="108" height="40" frameX="-239" frameY="0" frameWidth="347" frameHeight="40"/>
+	<SubTexture name="FTongueb0011" x="0" y="240" width="48" height="40" frameX="-299" frameY="0" frameWidth="347" frameHeight="40"/>
+	<SubTexture name="FTongueb0012" x="48" y="240" width="0" height="0" frameX="-300" frameY="-2" frameWidth="347" frameHeight="40"/>
+</TextureAtlas>

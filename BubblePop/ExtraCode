@@ -1,0 +1,29 @@
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    
+    
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+
+
+
+
+
+
+
+ update: function () {
+      if (!this.bubble1.alive && !this.bubble2.alive) {
+        game.time.events.add(Phaser.Timer.SECOND * 1, this.ReviveBubble1, this);
+        console.log('bubble2 reset');
+      }
+      if (!this.bubble2.alive && !this.bubble3.alive) {
+        game.time.events.add(Phaser.Timer.SECOND * 1, this.ReviveBubble2, this);
+        console.log('bubble3 reset');
+      }
+      if (!this.bubble3.alive && !this.bubble4.alive) {
+        game.time.events.add(Phaser.Timer.SECOND * 1, this.ReviveBubble3, this);
+        console.log('bubble4 reset');
+      }
+      if (!this.bubble1.alive && !this.bubble4.aliv) {
+        game.time.events.add(Phaser.Timer.SECOND * 1, this.ReviveBubble4, this);
+        console.log('bubble1 reset');
+      }
+      }

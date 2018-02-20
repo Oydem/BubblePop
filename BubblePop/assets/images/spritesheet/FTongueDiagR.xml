@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FTongueDiagR.png">
+	<!-- Created with Adobe Animate version 16.2.0.24 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ftonguediag0000" x="0" y="0" width="44" height="49" pivotX="2" pivotY="1.7" frameX="0" frameY="-415" frameWidth="338" frameHeight="464"/>
+	<SubTexture name="ftonguediag0001" x="44" y="0" width="93" height="113" frameX="0" frameY="-351" frameWidth="338" frameHeight="464"/>
+	<SubTexture name="ftonguediag0002" x="137" y="0" width="142" height="184" frameX="0" frameY="-280" frameWidth="338" frameHeight="464"/>
+	<SubTexture name="ftonguediag0003" x="279" y="0" width="191" height="254" frameX="0" frameY="-210" frameWidth="338" frameHeight="464"/>
+	<SubTexture name="ftonguediag0004" x="470" y="0" width="240" height="324" frameX="0" frameY="-140" frameWidth="338" frameHeight="464"/>
+	<SubTexture name="ftonguediag0005" x="710" y="0" width="289" height="395" frameX="0" frameY="-69" frameWidth="338" frameHeight="464"/>
+	<SubTexture name="ftonguediag0006" x="0" y="395" width="338" height="464"/>
+	<SubTexture name="ftonguediag0007" x="338" y="395" width="280" height="381" frameX="0" frameY="-83" frameWidth="338" frameHeight="464"/>
+	<SubTexture name="ftonguediag0008" x="618" y="395" width="221" height="296" frameX="0" frameY="-168" frameWidth="338" frameHeight="464"/>
+	<SubTexture name="ftonguediag0009" x="839" y="395" width="162" height="212" frameX="0" frameY="-252" frameWidth="338" frameHeight="464"/>
+	<SubTexture name="ftonguediag0010" x="0" y="859" width="103" height="128" frameX="0" frameY="-336" frameWidth="338" frameHeight="464"/>
+	<SubTexture name="ftonguediag0011" x="0" y="0" width="44" height="49" frameX="0" frameY="-415" frameWidth="338" frameHeight="464"/>
+	<SubTexture name="ftonguediag0012" x="103" y="859" width="0" height="0" frameX="-2" frameY="-1" frameWidth="338" frameHeight="464"/>
+</TextureAtlas>
